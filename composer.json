@@ -1,10 +1,9 @@
 {
     "name": "sozhuhai/php-wxapi-test",
-    "type": "project",
+    "type": "library",
     "keywords": ["wxapi"],
     "homepage": "http://www.sozhuhai.com",
     "license": "MIT",
-    "require": {
-        "sozhuhai/php-wxapi": "1.0.0"
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
