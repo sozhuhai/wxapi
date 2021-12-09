@@ -1,0 +1,10 @@
+{
+    "name"  : "tang/php-wxapi-test",
+    "type"  : "project",
+    "keywords": ["wxapi"],
+    "homepage": "http://www.sozhuhai.com",
+    "license" : "MIT",
+    "require": {
+        "tang/php-wxapi" : "1.0.0"
+    }
+}
